@@ -1,0 +1,31 @@
+[
+    {
+        "username": "nrenner0211",
+        "email": "nrenner0211@gmail.com",
+        "password": "password1234"
+    },
+    {
+        "username": "rossbob69",
+        "email": "bobross@gmail.com",
+        "password": "password0987"  
+    },
+    {
+        "username": "rickrollboss",
+        "email": "bossofsauce@gmail.com",
+        "password": "password2288"  
+    },
+    
+    {
+        "title": "The Best Modern Source of Knowledge",
+        "post_url": "https://google.com",
+        "user_id": 1
+    },
+
+    {
+    
+        "comment_text": "Nice!",
+        "user_id": 1,
+        "post_id": 2
+        
+    }
+]
