@@ -2,11 +2,11 @@
 
 ## About
 
-This API grabs tech news and displays it for the user.
+This API grabs tech news and displays it for the user. With a little more work, this will be the first full-stack project I've completed. A good example of MCV file structure.
 
 ## Technologies
 
-Uses Node packages bcrypt, express, and Sequelize
+Uses handlebars and Node packages bcrypt, express, path, and Sequelize
 
 ## Contact
 
